@@ -1,0 +1,10 @@
+while not home
+	if gem
+		get
+	else 
+		left
+		while not north
+			right
+	go
+while not empty
+	put

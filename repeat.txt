@@ -1,0 +1,8 @@
+REPEAT 3
+	GO
+	REPEAT 2 
+		LEFT
+		REPEAT 3
+			GO
+			REPEAT 2
+				LEFT 
